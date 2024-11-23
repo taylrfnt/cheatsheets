@@ -15,7 +15,7 @@ bind C-Space send-prefix
 | -- | -- |
 | New session | `tmux` |
 | New session | `tmux new` |
-| New session with name | `tmux  new -s sessionname` |
+| New session with name | `tmux new -s sessionname` |
 
 ### attaching to existing sessions
 ```
